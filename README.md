@@ -1,0 +1,2 @@
+# luxury
+basic landing page
